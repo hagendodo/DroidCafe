@@ -186,6 +186,18 @@
 
             app:layout_constraintBaseline_toBaselineOf="@+id/delivery_label"
             app:layout_constraintStart_toEndOf="@+id/delivery_label" />
-    </LinearLayout>
 
+        <Button
+            android:id="@+id/btnOrder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_regular"
+            android:layout_marginBottom="@dimen/margin_regular"
+            android:paddingTop="@dimen/padding_btn_order"
+            android:paddingBottom="@dimen/padding_btn_order"
+            android:text="@string/btn_order_label_text"
+            >
+
+        </Button>
+    </LinearLayout>
 </ScrollView>

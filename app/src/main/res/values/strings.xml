@@ -28,4 +28,5 @@
     <string name="pick_up">Pick up</string>
     <string name="note_label_text">Note</string>
     <string name="enter_note_hint">Tinggalkan pesan untuk penjual</string>
+    <string name="btn_order_label_text">Checkout</string>
 </resources>
